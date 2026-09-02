@@ -6,7 +6,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 📖 Why this book matters
 
@@ -77,7 +77,7 @@ The source book is copyrighted. This repository is intended for private learning
 
 ---
 
-## 🇨🇳 中文说明
+## 中文说明
 
 ### 📖 这本书为什么重要
 
